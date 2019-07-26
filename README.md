@@ -1,3 +1,12 @@
+## Figuring out how react router works
+
+Fetched data from a rest API inside React's useEffect() hook. Also created a protected route with react router.
+Also used useEffect() hook to check whether the data has been fetched or not and display loading animation till data is fethced.
+
+## Sample gif
+
+![](./src/icons/react-router.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
